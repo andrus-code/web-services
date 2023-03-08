@@ -30,6 +30,7 @@ We are gifted with tools in this modern era and we should utilize them to delive
 ## Anatomy of webservice 
 
 ![service](https://github.com/andrus-code/web-services/img/web-service1.png)
+
 Steps to follow:
 
 Clone the Repository:
