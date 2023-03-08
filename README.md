@@ -105,7 +105,8 @@ networks:
         driver: bridge
 ```
 
-![service2] (/img/web-service2.png)
+![service2](/img/web-service2.png)
+
 
 By default, all the containers we create will fall under the same Internal IP range(Subnet). Docker networking allows us to create custom networks with additional properties like automatic DNS resolution etc.
 
