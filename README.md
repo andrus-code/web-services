@@ -29,7 +29,7 @@ We are gifted with tools in this modern era and we should utilize them to delive
 
 ## Anatomy of webservice 
 
-![service][/img/web-service1.png]
+![service](/img/web-service1.png)
 
 Steps to follow:
 
