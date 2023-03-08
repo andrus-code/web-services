@@ -29,7 +29,7 @@ We are gifted with tools in this modern era and we should utilize them to delive
 
 ## Anatomy of webservice 
 
-![service](https://github.com/andrus-code/web-services/img/web-service1.png)
+![service][https://github.com/andrus-code/web-services/img/web-service1.png]
 
 Steps to follow:
 
@@ -114,3 +114,6 @@ In the above YAML file, we are creating a network called mynetwork. The services
 ## Contributor - 
 
 Sangam biradar - smbiradar14@gmail.com -www.codexplus.in 
+
+
+[sdfsad]: https://github.com/andrus-code/web-services/img/web-service1.png
